@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Starter Hive**
 
-- 👨‍💻 All of my projects are available at [rahilansari261.github.io](rahilansari261.github.io)
+- 👨‍💻 All of my projects are available at [rahilansari261.github.io](https://rahilansari261.github.io/)
 
 - 💬 Ask me about **javascript react nodejs mongodb**
 
