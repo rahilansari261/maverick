@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **EasyInvoice**
 
-- 🌱 I’m currently learning **t3 stack**
+- 🌱 I’m currently learning **typescript and nextjs**
 
 - 👯 I’m looking to collaborate on **Starter Hive**
 
