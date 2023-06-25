@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahil Ansari</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/rahilansari261" target="blank"><img src="https://img.shields.io/twitter/follow/rahilansari261?logo=twitter&style=for-the-badge" alt="rahilansari261" /></a> </p>
 
